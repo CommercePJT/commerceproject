@@ -55,9 +55,9 @@ customer
 #  ERD
 
 
-```md
+
 ![ERD](./erd.png)
-```
+
 
 ---
 
